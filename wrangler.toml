@@ -1,0 +1,5 @@
+name = "pulse-redirect"
+type = "webpack"
+account_id = "2cec0d4304893c7982c7aea0f54f36fa"
+workers_dev = true
+webpack_config = "webpack.config.js"

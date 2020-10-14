@@ -1,0 +1,9 @@
+[
+  {
+    "domain": "awesomedomain.dev",
+    "matchers": {
+      "base": { "destination": "https://awesomeprojectmarketingsite.org" },
+      "git": { "destination": "https://github.com/awesomeproject/example" }
+    }
+  }
+]
