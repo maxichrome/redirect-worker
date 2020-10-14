@@ -4,3 +4,4 @@
 /worker
 
 /redirects.json
+*.log
